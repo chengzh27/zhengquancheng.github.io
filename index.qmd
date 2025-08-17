@@ -1,5 +1,5 @@
 ---
-title: "Zhengquan Cheng"
+title: "Zhengquan Cheng (程郑权)"
 about:
   template: trestles
   image: assets/pictures/chengzhengquan2025.JPG
