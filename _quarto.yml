@@ -5,27 +5,21 @@ project:
     - "*.qmd"
 
 website:
-  title: "Valentina Giunchiglia"
+  title: "Zhengquan Cheng"
   description: "Cognition, Imaging, Machine Learning"
   navbar:
     background: "#023a75ff"
     foreground: "#ffffffff"
     left:
-      - text: Publications
+      - text: Research
         href: publications.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        href: outreach.qmd
       - text: CV
         href: curriculum.qmd
     right:
-      - icon: github
-        href: https://github.com/valegiunchiglia/
-      - icon: twitter
-        href: https://twitter.com/valegiunca/
       - icon: envelope
-        href: "mailto:v.giunchiglia20@imperial.ac.uk"
+        href: "mailto:zhengquancheng27@gmail.com"
 
 format:
   html:

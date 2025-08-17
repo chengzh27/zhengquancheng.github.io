@@ -1,64 +1,52 @@
 ---
-title: "Valentina Giunchiglia"
+title: "Zhengquan Cheng"
 about:
   template: trestles
-  image: assets/pictures/profile-picture.jpg
+  image: assets/pictures/chengzhengquan2025.JPG
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/valegiunca/
-    - icon: github
-      text: Github
-      href: https://github.com/valegiunchiglia/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/valentina-giunchiglia-b59747150/
-    - icon: envelope
-      text: Reach me per email
-      href: "mailto:v.giunchiglia20@imperial.ac.uk"
+    - icon: mailbox
+      text: zhengquancheng27@gmail.com
+      href: mailto:zhengquancheng27@gmail.com
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=6Nf6zMsAAAAJ&hl=zh-CN
+    - icon: fingerprint
+      text: ORCID
+      href: https://orcid.org/0009-0007-0620-0483
 
 ---
 
-I am a second-year PhD student jointly affiliated with Imperial College London and Harvard University funded by the [Medical Research Council](https://www.imperial.ac.uk/multisci-mrc-dtp/), under the supervision of Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and Prof. Adam Hampshire. 
+Dr. Cheng’s research interests lie in the fields of **labor economics** and **behavioral economics**, with a strong emphasis on integrating text-based big data with economic theories to study individual decision-making and behavioral patterns. 
 
-My work lies at the intersection of artificial intelligence, biology, and health, with a focus on neuroscience. I am interested in a holistic study of diseases across multiple levels — from cellular and genetic to brain structure and clinical phenotypes — to drive advancements in **precision medicine**. To achieve this, I work on research spanning bioinformatics, artificial intelligence, and clinical and behavioural analysis,  with the aim to gain expertise that enables me to leverage diverse data types and insights for precision medicine. Specifically, I am focused on developing **multimodal foundation models** that integrate diverse data types to effectively capture the complexity of diseases while embedding context-aware knowledge. 
+He has published in journals including *Journal of Economic Behavior & Organization, Finance Research Letters, Asia Pacific Journal of Human Resources, and South China Journal of Economics* (Chinese in 南方经济).
 
-My long-term research goal is to investigate diseases using multimodal data (e.g., imaging, omics, and electronic health records) to capture diverse disease characteristics and identify precise, clinically applicable treatments. 
+He has extensive teaching experience, having served as a teaching assistant for courses such as Microeconomics, Labor Economics, Applied Microeconometrics, and Environmental Economics at Xiamen University. His teaching performance has been well recognized, receiving the Outstanding Teaching Assistant Award twice (2022-2023).
 
-I enjoy teaching, both inside and [outside](https://girlswhoml.com/) academic environments.
-You can check out a detailed list in my [Teaching page](/teaching.qmd). 
-
-*I am always happy to supervise students (both in more clinical and more AI focused projects) from Imperial College London, King's College London and Harvard University. If you are interested in working with me and want to discuss potential projects, you can contact me at v.giunchiglia20@imperial.ac.uk.*
+With solid expertise in empirical analysis, he is proficient in Stata, Python, and LaTeX, and actively applies computational tools to process large-scale textual datasets.
 
 
 ### Key topics
 
-- Biomedical Informatics
-- Computational Modelling
-- Computational Neuroscience
-- Machine Learning
+- Judicial Decisions
+- Law and Economics
+- Gender Economics
 
 ### Education
 
-- MRes Biomedical Research (Data Science) - Imperial College London
-- MA Health Humanities - UCL
-- BSc Molecular Biotechnology - Heidelberg University
+- Ph.D. in Labor Economics, Xiamen University
+- M.A. in Labor Economics, Southwestern University of Finance and Economics
+- B.A. in International Economics and Trade, China Jiliang University
 
 ### Further links
 <table width="60%" align="center">
     <tr>
         <td>
-            <a href="https://scholar.google.com/citations?user=p87Sl34AAAAJ&hl=en">
+            <a href="https://scholar.google.com/citations?user=6Nf6zMsAAAAJ&hl=zh-CN">
                 <img src="/assets/pictures/gs.png" alt="Google Scholar" width="40">
             </a>
         </td>
         <td>
-            <a href="https://www.researchgate.net/profile/Valentina-Giunchiglia">
-                <img src="/assets/pictures/researchgate.png" alt="ResearchGate" width="40">
-            </a>
-        </td>
-        <td>
-            <a href="https://orcid.org/0000-0002-2165-7840">
+            <a href="https://orcid.org/0009-0007-0620-0483">
                 <img src="/assets/pictures/ORCID_iD.png" alt="ORCID" width="40">
             </a>
         </td>

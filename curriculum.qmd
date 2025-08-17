@@ -1,5 +1,5 @@
 ---
-title: "📜 Curriculum Vitae"
+title: "Curriculum Vitae"
 ---
 
-> [Download CV](/assets/CV.pdf) &emsp; Latest update: November 2024
+> [Download CV](/assets/CV.pdf) &emsp; Latest update: July 2025
