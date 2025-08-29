@@ -8,5 +8,4 @@ title: "Teaching"
   - Microeconomics   
   - Labor Economics  
   - Environmental Economics
-  - Applied Microeconometrics 
-  - Awarded *Outstanding Teaching Assistant* in 2022 and 2023.  
+  - Applied Microeconometrics
